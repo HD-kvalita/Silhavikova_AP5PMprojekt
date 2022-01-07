@@ -1,0 +1,16 @@
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\bin\Debug\netstandard2.0\AP5PM_projekt.deps.json
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\bin\Debug\netstandard2.0\AP5PM_projekt.dll
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\bin\Debug\netstandard2.0\ref\AP5PM_projekt.dll
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\bin\Debug\netstandard2.0\AP5PM_projekt.pdb
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.csproj.AssemblyReference.cache
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\DetailBookPage.xaml.g.cs
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.AssemblyInfoInputs.cache
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.AssemblyInfo.cs
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.dll
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\ref\AP5PM_projekt.dll
+C:\Users\Hanula\source\repos\AP5PM_projekt\AP5PM_projekt\AP5PM_projekt\obj\Debug\netstandard2.0\AP5PM_projekt.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AP5PM_projekt.DetailBookPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout x:Name="testDetail" Padding="20">
+            
+                <!-- VÝPIS DETAILU KNIHY -->
+                <Label Text="{Binding Title}" FontSize="Title" TextColor="DarkOrange" FontAttributes="Bold"/>
+                <Image x:Name="detailImage" Source="{Binding Image_URL}" HeightRequest="230" HorizontalOptions="Center" Scale="2"/>
+                <Label Text="{Binding Authors}" FontSize="Subtitle"/>
+                <!-- <Label Text="{Binding ID}"/> -->
+                <Label Text="{Binding Type}" FontSize="Subtitle"/>
+                <Label Text="{Binding Genre}" FontSize="Subtitle"/>
+                <Label Text="{Binding Synopsis}"/>
+
+                <!-- PŘIDÁNÍ ČUDLÍKU PRO VRÁCENÍ ZPĚT NA HLAVNÍ STRÁNKU -->
+                <Button Text="Back to search page" BackgroundColor="DarkOrange" Clicked="NavigateButton_OnClicked"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

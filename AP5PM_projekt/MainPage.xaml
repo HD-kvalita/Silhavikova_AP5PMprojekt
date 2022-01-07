@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AP5PM_projekt.MainPage">
+
+    <StackLayout>
+        <!-- ZOBRAZENÍ VYHLEDANÝCH KNIH S MOŽNOSTÍ SCROLLOVÁNÍ V SEZNAMU -->
+        <SearchBar Placeholder="Search books..." TextChanged="OnTextChanged" TextColor="LightGray" PlaceholderColor="LightGray"/>
+        <ListView x:Name="testListView" Margin="20" RowHeight="80" HasUnevenRows="true" ItemSelected="OnItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding Image_URL}"/>
+                            <Label Text="{Binding Title}"/>
+                            <!-- <Label Text="{Binding ID}"/> -->
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- ZKUŠEBNÍ ČUDLÍK S ODKAZEM NA DETAILNÍ INFO O KNIZE -->
+        <!-- <Button Text="Song detail" Clicked="NavigateButton_OnClicked"></Button>-->
+
+    </StackLayout>
+</ContentPage>
