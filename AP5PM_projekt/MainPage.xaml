@@ -5,7 +5,7 @@
 
     <StackLayout>
         <!-- ZOBRAZENÍ VYHLEDANÝCH KNIH S MOŽNOSTÍ SCROLLOVÁNÍ V SEZNAMU -->
-        <SearchBar Placeholder="Search books..." TextChanged="OnTextChanged" TextColor="LightGray" PlaceholderColor="LightGray"/>
+        <SearchBar Placeholder="Search books..." TextChanged="OnTextChanged" BackgroundColor="#ffbc51" TextColor="#5c4b30"/>
         <ListView x:Name="testListView" Margin="20" RowHeight="80" HasUnevenRows="true" ItemSelected="OnItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
